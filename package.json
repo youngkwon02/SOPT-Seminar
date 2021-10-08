@@ -1,0 +1,20 @@
+{
+  "name": "youngkwon-kim",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "sopt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WE-SOPT-29-SERVER/Youngkwon-Kim.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WE-SOPT-29-SERVER/Youngkwon-Kim/issues"
+  },
+  "homepage": "https://github.com/WE-SOPT-29-SERVER/Youngkwon-Kim#readme"
+}
