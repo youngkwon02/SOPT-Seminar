@@ -3,7 +3,7 @@
 // Level03
 // OB, YB 비율 오차범위를 최소한으로 유지하며 코드 작성
 
-import members from './members.js'
+const members = require("./members");
 
 const PEOPLE = 4;   // The number of people for each group
 
@@ -56,4 +56,4 @@ const shuffle = arr => {
   return arr;
 }
 
-groupGen();
+console.log(groupGen());

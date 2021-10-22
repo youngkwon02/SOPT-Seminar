@@ -38,4 +38,4 @@ const members = [
   { name: "허유정", part: "Server", group: "YB" },
 ];
 
-export default members;
+module.exports = members;
