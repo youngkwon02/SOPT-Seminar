@@ -7,5 +7,6 @@
 |    3rd   |  2021.10.23.  | HTTP, CRUD, Firebase Cloud Function |
 |    4th   |  2021.10.30.  | Relational Database, Datagrip, PostgreSQL |
 |    5th   |  2021.11.13.  | Database access API implementation |
+|    6th   |  2021.11.20.  | Server-Web joint seminar |
 
 <img src="https://user-images.githubusercontent.com/29723695/135609693-46b686c4-5511-4f6b-b5a4-8e65a281b9c0.png" width="800px;" alt=""/>
