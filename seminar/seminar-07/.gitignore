@@ -64,3 +64,6 @@ node_modules/
 
 # dotenv environment variables file
 .env
+
+# Firebase service account
+we-sopt-29-server-firebase-adminsdk-xbekl-32821e105a.json
